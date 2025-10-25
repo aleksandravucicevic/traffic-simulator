@@ -1,0 +1,25 @@
+# Build files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# IDE files/folders
+.vscode/
+build/
+bin/
+Debug/
+Release/
+
+# OS specific
+.DS_Store
+Thumbs.db

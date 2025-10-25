@@ -1,0 +1,58 @@
+4,2
+0,A,0
+4,5
+0,B,1
+6,7
+0,C,2
+8,9
+0,D,3
+10,11
+1,Put ka lokaciji A,4
+13,0,340,80,5
+1,Put od lokacije A,5
+0,13,320,50,3
+1,Put ka lokaciji B,6
+13,1,575,80,7
+1,Put od lokacije B,7
+1,14,220,25,4
+1,Put ka lokaciji C,8
+13,2,456,40,8
+1,Put od lokacije C,9
+2,13,400,30,5
+1,Put ka lokaciji D,10
+13,3,430,50,4
+1,Put od lokacije D,11
+3,14,620,60,6
+1,Put izmedju raskrsnica,12
+14,13,150,40,3
+2,I13,13
+3
+7
+inc,Put od lokacije A,5
+inc,Put od lokacije C,9
+inc,Put izmedju raskrsnica,12
+out,Put ka lokaciji A,4
+out,Put ka lokaciji B,6
+out,Put ka lokaciji C,8
+out,Put ka lokaciji D,10
+11
+5,6,2
+5,8,2
+5,10,2
+9,4,2
+9,6,2
+9,8,2
+9,10,2
+12,4,2
+12,6,2
+12,8,2
+12,10,2
+2,I14,14
+3
+3
+inc,Put od lokacije B,7
+inc,Put od lokacije D,11
+out,Put izmedju raskrsnica,12
+2
+7,12,3
+11,12,3
