@@ -35,6 +35,13 @@ Simulacija omogućava kretanje više vozila kroz mrežu, uzimajući u obzir duž
     * izračunavanje prosječnog vremena putovanja između lokacija (_averageTime(Graph&, Vehicle&)_).
 
 ## Primjer izvršavanja
+<p align="center">
+<img width="1105" height="807" alt="graf_grada" src="https://github.com/user-attachments/assets/90a7f22a-a3a1-46f1-8baf-4a82ef841c5e">
+<br>
+<em>Graf grada</em>
+</p>
+
+
 ```
  ________________________________________________________________________________
 |                                                                                |
